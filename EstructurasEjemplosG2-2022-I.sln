@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstructurasEjemplosG2-2022-I", "EstructurasEjemplosG2-2022-I.csproj", "{E0C2FDE2-9A05-492E-8FBB-5E9C9358329A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0C2FDE2-9A05-492E-8FBB-5E9C9358329A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0C2FDE2-9A05-492E-8FBB-5E9C9358329A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0C2FDE2-9A05-492E-8FBB-5E9C9358329A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0C2FDE2-9A05-492E-8FBB-5E9C9358329A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {389935F5-9DC9-4440-B836-65EEABBD6CAB}
+	EndGlobalSection
+EndGlobal
